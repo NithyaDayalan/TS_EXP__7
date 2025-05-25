@@ -1,10 +1,10 @@
-## Ex.No: 07 AUTO REGRESSIVE MODEL
-### Date: 15/04/2025
+## Ex.No : 07 AUTO REGRESSIVE MODEL
+### Date : 15/04/2025
 
-### AIM:
+### AIM :
 To Implementat an Auto Regressive Model using Python
 
-### ALGORITHM:
+### ALGORITHM :
 1. Import necessary libraries
 2. Read the CSV file into a DataFrame
 3. Perform Augmented Dickey-Fuller test
@@ -13,10 +13,10 @@ To Implementat an Auto Regressive Model using Python
 6. Make predictions using the AR model.Compare the predictions with the test data
 7. Calculate Mean Squared Error (MSE).Plot the test data and predictions.
    
-### PROGRAM:
+### PROGRAM :
 ```
-Devloped by: NITHYA D
-Register Number: 2122232401110
+Devloped by : NITHYA D
+Register Number : 2122232401110
 ```
 #### Import necessary libraries
 ```
@@ -98,7 +98,7 @@ plt.legend()
 plt.grid()
 plt.show()
 ```
-### OUTPUT:
+### OUTPUT :
 
 #### Result Data :
 ![image](https://github.com/user-attachments/assets/37ff10ab-aaa6-455a-b09a-da3aba503961)
@@ -114,5 +114,5 @@ plt.show()
 #### Accuracy :
 ![image](https://github.com/user-attachments/assets/82e5e16b-8028-414a-9885-3f6d1e66abe4)
 
-### RESULT:
+### RESULT :
 Thus we have successfully implemented the auto regression function using python.
